@@ -2,7 +2,7 @@
 
 (just for practice). You can visit to see my hosted page.
 
-[Live](https://crud-django-suvenduc.herokuapp.com/ "my heroku-app")
+# [Live](https://crud-django-suvenduc.herokuapp.com/ "my heroku-app")
 
 ## Deploying Process
 ## Video Tutorial
