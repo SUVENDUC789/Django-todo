@@ -1,8 +1,8 @@
 # Django-todo
 
+(just for practice). You can visit to see my hosted page.
 
-
-(just for practice). You can visit <h1>[here](https://crud-django-suvenduc.herokuapp.com/ "my heroku-app")</h1> to see my hosted page.
+<h1>[Live here](https://crud-django-suvenduc.herokuapp.com/ "my heroku-app")</h1> 
 
 ## Deploying Process
 ## Video Tutorial
