@@ -1,0 +1,23 @@
+{% extends "base.html" %}
+{% block container %}
+<div class="container my-3">
+    <div class="text-center alert alert-info"><h1>Update Todo</h1></div>
+    <form action="/update/{{id}}/" method="post">
+        {% csrf_token %}
+        <div class="mb-3">
+            <label for="YourName" class="form-label"><b>Enter your name</b></label>
+            <input type="text" name="name" class="form-control" value="{{name}}" id="YourName">
+        </div>
+        <div class="mb-3">
+            <label for="tile" class="form-label"><b>Title</b></label>
+            <input type="text" name="title" class="form-control" value="{{title}}" id="tile">
+        </div>
+        <div class="mb-3">
+            <label for="Note" class="form-label"><b>Short Note</b></label>
+            <input type="text" name="note" class="form-control" value="{{note}}" id="Note">
+        </div>
+        
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+</div>
+{% endblock  %}
