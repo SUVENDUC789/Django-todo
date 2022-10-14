@@ -3,7 +3,12 @@
 (just for practice). You can visit to see my hosted page.
 
 # [Live](https://crud-django-suvenduc.herokuapp.com/ "my heroku-app")
+# Technologies i used in it 👨‍💻
+<a href="#">
+ <img src="https://img.icons8.com/color/48/000000/django.png"/>         <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>         <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>          <img src="https://img.icons8.com/fluency/48/000000/python.png"/>  
 
+ </a>
+ 
 ## Deploying Process
 ## Video Tutorial
 [Click here to see the video](https://youtu.be/fH2S5lWNKaM "heroku deployment for django-sqlite3 app")
