@@ -2,7 +2,7 @@
 
 
 
-(just for practice). You can visit [here](https://crud-django-suvenduc.herokuapp.com/ "my heroku-app") to see my hosted page.
+(just for practice). You can visit <h1>[here](https://crud-django-suvenduc.herokuapp.com/ "my heroku-app")</h1> to see my hosted page.
 
 ## Deploying Process
 ## Video Tutorial
